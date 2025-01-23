@@ -1,3 +1,4 @@
 .vscode/settings.json
 bin/CheckGuestWhile.class
 bin/CheckGuestFor.class
+bin/CheckGuest.class
